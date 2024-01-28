@@ -1,7 +1,6 @@
 # Weather_forcast
 
 
-Sure, I can help you create a brief description for your GitHub README. Here's a possible description:
 
 Weather Forecast and Rain Alert System
 Overview
