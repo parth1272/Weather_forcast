@@ -8,8 +8,11 @@ This Python script utilizes the OpenWeatherMap API to fetch weather forecast dat
 
 Features
 Uses OpenWeatherMap API to get weather forecast data.
+
 Checks if rain is predicted in the next few hours.
+
 Sends email alerts with a weather update if rain is expected.
+
 Usage
 Obtain an API key from OpenWeatherMap (https://openweathermap.org/).
 Set up a Gmail account for sending email alerts.
